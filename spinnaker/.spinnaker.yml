@@ -1,0 +1,8 @@
+name: keeldemo
+application: keeldemo
+artifacts: []
+environments: 
+  - name: testing # this is a fine default but you can change it
+    constraints: []
+    notifications: []
+    resources: []
